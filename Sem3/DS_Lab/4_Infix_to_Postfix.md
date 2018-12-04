@@ -1,3 +1,4 @@
+```
 #define size 50 /* size of stack */
 
 #include <ctype.h>
@@ -75,3 +76,4 @@ void main() /* main program */
 Enter the infix expression (a+b)*c/d^5%1
 Given Infix Expn: (a+b)*c/d^5%1
 Postfix Expn: ab+c*d5^/1%
+```
