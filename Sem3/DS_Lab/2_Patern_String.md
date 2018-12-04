@@ -1,3 +1,4 @@
+```
 #include<stdio.h>
 
 void main()
@@ -65,3 +66,4 @@ bye
 Enter a REPLACE string:
 hello
 Pattern not found!!!
+```
