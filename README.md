@@ -3,4 +3,4 @@ Lab Manual for CS (Most of them are C++ to C converted from fsmk Ref.  https://g
 
 
 
-IF YOU DON'T KNOW HOW TO MAKE A PULL REQUES 👉[CLICK](https://github.com/Viz38/First-Pull-Request)👈
+IF YOU DON'T KNOW HOW TO MAKE A PULL REQUEST 👉[CLICK](https://github.com/Viz38/First-Pull-Request)👈
