@@ -111,7 +111,7 @@ int delete()
    printf(" Invalid Position");
   }
  }
-```
+ 
 
 Output
 --------MENU-----------
@@ -138,3 +138,4 @@ ENTER YOUR CHOICE: 4
 Enter the position of the element to be deleted: 3
 The deleted element is =30
 enter your choice: 5
+```
