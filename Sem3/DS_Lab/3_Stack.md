@@ -100,3 +100,29 @@ int pali()
    }
   return flag;
 }
+
+--------STACK OPERATIONS-----------
+1.Push
+2.Pop
+3.Check for Palindrome
+4.Display
+5.Exit
+
+Enter your choice: 1
+Enter the element to be inserted: 1
+Enter your choice: 1
+Enter the element to be inserted: 2
+Enter your choice: 1
+Enter the element to be inserted: 1
+Enter your choice: 1
+Enter the element to be inserted: 5
+Enter your choice: 2
+The poped element: 5
+Enter your choice: 4
+The stack elements are:
+1
+2
+1
+Enter your choice: 3
+It’s a Palindrome
+Enter your choice: 5
