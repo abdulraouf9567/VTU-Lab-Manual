@@ -1,4 +1,4 @@
-~~~
+﻿~~~
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
@@ -40,7 +40,7 @@ void CQ_Insert()
    return; 
   }
   if(front==-1)
-  front++;
+   front++;
   printf("Enter the element to be inserted\n");
   scanf("\n%c",&ele);
   rear = (rear+1)%SIZE;
