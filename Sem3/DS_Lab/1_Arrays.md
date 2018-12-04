@@ -1,3 +1,4 @@
+```
 #include<stdio.h>
 #include<stdlib.h>
 int a[20]; // Array declaration
@@ -110,26 +111,22 @@ int delete()
    printf(" Invalid Position");
   }
  }
-
+```
 
 Output
-inux:~/dslab # gedit array.c
-linux:~/dslab # cc array.c
-linux:~/dslab # ./a.out
 --------MENU-----------
 1.CREATE
 2.DISPLAY
 3.INSERT
 4.DELETE
 5.EXIT
------------------------
+
 ENTER YOUR CHOICE: 1
 Enter the size of the array elements: 3
 Enter the elements for the array:
 10 25 30
 ENTER YOUR CHOICE: 2
 The array elements are:
-© Vivekananda College of Engg. & Technology, Puttur (D.K) 9
 10 25 30
 ENTER YOUR CHOICE: 3
 Enter the position for the new element: 1
