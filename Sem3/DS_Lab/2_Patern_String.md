@@ -49,7 +49,7 @@ void main()
    }
  }
 
-#Output
+# Output
 
 Enter the MAIN string:
 good morning
@@ -66,4 +66,4 @@ bye
 Enter a REPLACE string:
 hello
 Pattern not found!!!
-```
+

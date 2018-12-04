@@ -1,4 +1,4 @@
-```
+﻿```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -128,4 +128,4 @@ The stack elements are:
 Enter your choice: 3
 It’s a Palindrome
 Enter your choice: 5
-```
+
