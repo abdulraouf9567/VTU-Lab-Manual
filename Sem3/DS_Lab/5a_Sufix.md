@@ -1,3 +1,4 @@
+```
 #include<stdio.h>
 #include<ctype.h>
 
@@ -89,3 +90,4 @@ float pop()
 
 Insert a postfix notation :: 22^32*+
 Result :: 10
+```
