@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <stdlib.h>
 
 int stack[6],rev[6];
@@ -101,6 +101,7 @@ int pali()
   return flag;
 }
 
+# Output
 --------STACK OPERATIONS-----------
 1.Push
 2.Pop
