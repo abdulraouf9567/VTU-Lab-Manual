@@ -1,4 +1,5 @@
-﻿#include <stdio.h>
+```
+#include <stdio.h>
 #include <stdlib.h>
 
 int stack[6],rev[6];
@@ -127,3 +128,4 @@ The stack elements are:
 Enter your choice: 3
 It’s a Palindrome
 Enter your choice: 5
+```
